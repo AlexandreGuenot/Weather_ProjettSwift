@@ -16,6 +16,7 @@
 		3C55BD73260F781000FF3DD5 /* WeatherService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C55BD72260F781000FF3DD5 /* WeatherService.swift */; };
 		3C55BD78260F7A5200FF3DD5 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C55BD77260F7A5200FF3DD5 /* Weather.swift */; };
 		3C55BD86260F818800FF3DD5 /* WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C55BD85260F818800FF3DD5 /* WeatherApp.swift */; };
+		3C55BD8E260F853900FF3DD5 /* WeatherViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C55BD8D260F853900FF3DD5 /* WeatherViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3C55BD72260F781000FF3DD5 /* WeatherService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherService.swift; sourceTree = "<group>"; };
 		3C55BD77260F7A5200FF3DD5 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 		3C55BD85260F818800FF3DD5 /* WeatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherApp.swift; sourceTree = "<group>"; };
+		3C55BD8D260F853900FF3DD5 /* WeatherViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				3C55BD85260F818800FF3DD5 /* WeatherApp.swift */,
 				3C55BD43260F775E00FF3DD5 /* WeatherView.swift */,
 				3C55BD72260F781000FF3DD5 /* WeatherService.swift */,
+				3C55BD8D260F853900FF3DD5 /* WeatherViewModel.swift */,
 				3C55BD45260F776300FF3DD5 /* Assets.xcassets */,
 				3C55BD4A260F776300FF3DD5 /* LaunchScreen.storyboard */,
 				3C55BD4D260F776300FF3DD5 /* Info.plist */,
@@ -269,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C55BD8E260F853900FF3DD5 /* WeatherViewModel.swift in Sources */,
 				3C55BD86260F818800FF3DD5 /* WeatherApp.swift in Sources */,
 				3C55BD73260F781000FF3DD5 /* WeatherService.swift in Sources */,
 				3C55BD44260F775E00FF3DD5 /* WeatherView.swift in Sources */,
